@@ -1,0 +1,9 @@
+node_modules
+.next
+.git
+data
+.env*
+*.md
+AGENTS.md
+CLAUDE.md
+.DS_Store
